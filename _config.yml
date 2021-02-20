@@ -1,7 +1,7 @@
 plugins:
   - jekyll-relative-links
 title: FirstOnlineSchool
-theme: creative-theme-jekyll
+theme: beautiful-jekyll
 relative_links:
   enabled: true
   collections: true
