@@ -7,5 +7,5 @@ FOS is filled with people from across the globe, meaning that there is always so
 
 The Discord server has over 20 *easy-to-navigate* channels dedicated to different subject areas. If you are unable to find the perfect channel for your question, there are general channels such as #ask-for-help and #other-subjects.
 
-### Check out the FOS Discord server to get started!
+### Check out the ![FOS Discord server](https://discord.gg/qBtFMaY) to get started!
 
